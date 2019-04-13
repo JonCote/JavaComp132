@@ -6,10 +6,7 @@
 package Lab8;
 
 
-/**
- *
- * @author shohreh
- */
+
 public class Matrix {
 
     // instance variables

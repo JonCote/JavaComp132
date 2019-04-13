@@ -7,7 +7,7 @@ package Lab8;
 
 /**
  *
- * @author c0446292
+ * @author  Jonathan Cote c0446292
  */
 
 /**

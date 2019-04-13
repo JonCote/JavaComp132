@@ -20,6 +20,9 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
+/**
+ * @author Jonathan Cote
+ */
 public class Calculator extends JFrame implements ActionListener {
 
 
